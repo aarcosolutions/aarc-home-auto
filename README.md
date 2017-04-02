@@ -1,4 +1,4 @@
-# aarc-home-auto
+# Socketz
 Home automation using RaspberryPi, ESP8266, Alexa, SQS, NodeJs
 
 
